@@ -1,0 +1,8 @@
+.ropeproject
+__pycache__
+*.sw*
+docs
+levels
+*.bak
+main.sh.x.c
+game
