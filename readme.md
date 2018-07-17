@@ -1,7 +1,7 @@
 LKS Game
 ========
 
-This is a game written in Python to help userse learn Linux.
+This is a game written in Python to help users learn Linux.
 
 Setup
 -----
@@ -9,7 +9,7 @@ Setup
 Step One
 --------
 
-As an admin with sudo powers
+As an admin with `sudo` powers
 
 $ `sudo ./setup_game.sh`
 
