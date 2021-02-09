@@ -4,7 +4,7 @@ import os
 import stat
 
 enabled = True
-description = "Create and empty file and assigned permissions."
+description = "Create and empty file and assign permissions."
 
 
 def check_level(user):

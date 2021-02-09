@@ -10,7 +10,7 @@ import importlib.machinery
 import types
 import os
 import sys
-from docs import static
+#from docs import static
 
 import glob
 
